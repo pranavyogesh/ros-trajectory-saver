@@ -1,0 +1,2 @@
+trajectory_tracker:turtlebot3_simulations/turtlebot3_fake:turtlebot3_simulations/turtlebot3_gazebo:turtlebot3_simulations/turtlebot3_simulations
+-DCATKIN_DEVEL_PREFIX=/home/py20/Documents/anscer_interview_q/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/py20/Documents/anscer_interview_q/catkin_ws/install -G Unix Makefiles
